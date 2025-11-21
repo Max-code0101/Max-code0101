@@ -69,7 +69,7 @@ I’m eager to contribute to real-world projects and gain valuable industry expe
 ## 📫 **Contact Me**
 - 📧 Email: **siewchunfeng2006@gmail.com**  
 - 🌐 JobStreet: [View Profile](https://my.jobstreet.com/profile/siew-chunfeng-fJcsbC3QCH)  
-- 🐙 GitHub: [github.com/Max-code0101](https://github.com/Max-code0101)
+- 💼 LinkedIn: [linkedin.com/in/siew-chun-feng-6b8a15333](https://www.linkedin.com/in/siew-chun-feng-6b8a15333)  
 
 ---
 
