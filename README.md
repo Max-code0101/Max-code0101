@@ -1,16 +1,76 @@
-## Hi there 👋
+# 👋 Hi, I'm **Siew Chun Feng**
 
-<!--
-**Max-code0101/Max-code0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma in Information Technology student at **Tunku Abdul Rahman University of Management and Technology (TAR UMT)**  
+📅 Looking for **internship from 12 January 2026 – 31 May 2026**  
+💻 Passionate about **software development, problem-solving, and system design**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 **About Me**
+I am an Information Technology student with strong fundamental knowledge in programming and a deep interest in software development. I adapt quickly, enjoy learning new technologies, and work well in team environments.  
+I’m eager to contribute to real-world projects and gain valuable industry experience during my internship period.
+
+---
+
+
+## 🛠️ **Technical Skills**
+### **Programming Languages**
+- Java  
+- C#  
+- Python  
+- HTML, CSS, JavaScript
+
+### **Developer Tools**
+- Visual Studio 2022  
+- Visual Studio Code  
+- GitHub  
+
+### **Frameworks**
+- ASP.NET MVC  
+
+### **Databases / Cloud**
+- SQL  
+
+### **Soft Skills**
+- Problem-solving  
+- Team collaboration  
+- Adaptability  
+- Communication  
+
+### **Areas of Interest**
+- Software Development  
+- Artificial Intelligence  
+
+---
+
+## 📁 **Personal Projects**
+
+### 🍽️ **Food Ordering System**  
+- Developed a restaurant food-ordering system with role-based access for admins and staff.  
+- Implemented secure login with admin email validation.  
+- **Tools/Tech:** C#, ASP.NET MVC  
+
+---
+
+### 💰 **Expenses Tracker**  
+- Built a GUI desktop app to manage and track daily expenses.  
+- Added categorization, date tracking, delete functions, and pie chart visualization.  
+- **Tools/Tech:** Python  
+
+---
+
+### 📚 **Online Shopping System**  
+- Created a console-based book shopping system focusing on OOP concepts.  
+- Included browsing, product modification, and customer order history viewing.  
+- **Tools/Tech:** Java  
+
+---
+
+## 📫 **Contact Me**
+- 📧 Email: **siewchunfeng2006@gmail.com**  
+- 🌐 JobStreet: [View Profile](https://my.jobstreet.com/profile/siew-chunfeng-fJcsbC3QCH)  
+- 🐙 GitHub: [github.com/Max-code0101](https://github.com/Max-code0101)
+
+---
+
+⭐ *Thank you for visiting my profile! Feel free to explore my projects or connect with me.*  
