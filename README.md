@@ -67,7 +67,7 @@ I am an Information Technology student with strong fundamental knowledge in prog
 ## 📫 **Contact Me**
 - 📧 Email: **siewchunfeng2006@gmail.com**  
 - 🌐 JobStreet: [View Profile](https://my.jobstreet.com/profile/siew-chunfeng-fJcsbC3QCH)  
-- 💼 LinkedIn: [linkedin.com/in/siew-chun-feng-6b8a15333](https://www.linkedin.com/in/siew-chun-feng-6b8a15333)  
+- 💼 LinkedIn: [View Profile](https://www.linkedin.com/in/siew-chun-feng-6b8a15333)  
 
 ---
 
