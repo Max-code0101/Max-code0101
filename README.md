@@ -1,14 +1,12 @@
 # 👋 Hi, I'm **Siew Chun Feng**
 
 🎓 Diploma in Information Technology student at **Tunku Abdul Rahman University of Management and Technology (TAR UMT)**  
-📅 Looking for **internship from 12 January 2026 – 31 May 2026**  
 💻 Passionate about **software development, problem-solving, and system design**
 
 ---
 
 ## 🌟 **About Me**
 I am an Information Technology student with strong fundamental knowledge in programming and a deep interest in software development. I adapt quickly, enjoy learning new technologies, and work well in team environments.  
-I’m eager to contribute to real-world projects and gain valuable industry experience during my internship period.
 
 ---
 
