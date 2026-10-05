@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Siew Chun Feng**
 
-🎓 Diploma in Information Technology student at **Tunku Abdul Rahman University of Management and Technology (TAR UMT)**  
+🎓 Bachelor Degree of Software Engineering student at **Tunku Abdul Rahman University of Management and Technology (TAR UMT)**  
 💻 Passionate about **software development, problem-solving, and system design**
 
 ---
@@ -17,17 +17,20 @@ I am an Information Technology student with strong fundamental knowledge in prog
 - C#  
 - Python  
 - HTML, CSS, JavaScript
+- Node.js, Vue.js
 
 ### **Developer Tools**
 - Visual Studio 2022  
 - Visual Studio Code  
-- GitHub  
+- GitHub
+- Postman
 
 ### **Frameworks**
 - ASP.NET MVC  
 
 ### **Databases / Cloud**
-- SQL  
+- SQL
+- MySQL
 
 ### **Soft Skills**
 - Problem-solving  
